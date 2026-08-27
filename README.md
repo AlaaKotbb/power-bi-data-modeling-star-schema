@@ -1,4 +1,5 @@
-![Power BI Data Modeling — Star Schema](assets/banner_data_modeling.png)
+![Power BI Data Modeling — Star Schema](<img width="1376" height="768" alt="Gemini_Generated_Image_n8vzljn8vzljn8vz" src="https://github.com/user-attachments/assets/c131e852-74ec-4a4d-aacd-e9c5e08bfc8b" />
+)
 
 # Power BI Data Modeling — Star Schema
 
@@ -24,12 +25,14 @@ This project was built while following **[Data with Baraa](https://www.youtube.c
 ### 1. Starting point — a messy, unrelated set of tables
 The raw source data was a large collection of independent tables with no clear structure — orders from different years, shipments, invoices, payments, campaign logs, inventory, security, and more — all loosely and inconsistently connected.
 
-![Messy Source Tables](assets/messy_source_tables.png)
+![Messy Source Tables](<img width="1545" height="961" alt="image" src="https://github.com/user-attachments/assets/625a0ef3-cf77-4d22-9aef-7ce7774d7add" />
+)
 
 ### 2. Data cleaning in Power Query
 Before any modeling, the raw tables were cleaned and shaped in Power Query — fixing data types, standardizing column names, and preparing each table to play its correct role (fact or dimension) in the final model.
 
-![Power Query Cleaning](assets/power_query_cleaning.png)
+![Power Query Cleaning](<img width="1320" height="952" alt="image" src="https://github.com/user-attachments/assets/471f4cee-6838-4469-b809-635d18745b0b" />
+)
 
 ### 3. Rebuilding as a clean Star Schema
 The cleaned tables were restructured into a proper star schema:
@@ -40,7 +43,8 @@ The cleaned tables were restructured into a proper star schema:
 
 Each fact table connects to its relevant dimensions through simple, direct **one-to-many relationships** — the defining shape of a star schema.
 
-![Final Star Schema Model](assets/final_star_schema.png)
+![Final Star Schema Model](<img width="1844" height="932" alt="image" src="https://github.com/user-attachments/assets/e5c765fa-6ca3-42d1-bb64-681df3f16782" />
+)
 
 ## 🧠 Key Concepts Learned
 
