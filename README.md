@@ -43,7 +43,7 @@ The cleaned tables were restructured into a proper star schema:
 
 Each fact table connects to its relevant dimensions through simple, direct **one-to-many relationships** — the defining shape of a star schema.
 
-![Final Star Schema Model](<img width="1844" height="932" alt="image" src="https://github.com/user-attachments/assets/e5c765fa-6ca3-42d1-bb64-681df3f16782" />
+![Final Star Schema Model](<final_star_schema.png
 )
 
 ## 🧠 Key Concepts Learned
