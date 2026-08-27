@@ -1,4 +1,5 @@
-![Power BI Data Modeling — Star Schema](<img width="1376" height="768" alt="Gemini_Generated_Image_n8vzljn8vzljn8vz" src="https://github.com/user-attachments/assets/c131e852-74ec-4a4d-aacd-e9c5e08bfc8b" />
+![Power BI Data Modeling — Star Schema](<<img width="1376" height="768" alt="Gemini_Generated_Image_n8vzljn8vzljn8vz" src="https://github.com/user-attachments/assets/00b3aa04-e647-4d87-baed-fb369bd4de2b" />
+
 )
 
 # Power BI Data Modeling — Star Schema
